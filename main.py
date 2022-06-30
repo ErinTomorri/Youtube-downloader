@@ -1,6 +1,10 @@
 from pytube import YouTube
 # you may need to wait a few minutes for it to fully download
-
+'''
+This tool is for educational purposes only
+Do not use it for illegal work or without the consent of the target
+I am not responsible for any action taken using this script
+I am not responsible for any damage of any kind for using this script'''
 def download(url: str, outpath: str = "./"):
 
     yt = YouTube(url)
