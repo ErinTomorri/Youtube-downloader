@@ -6,3 +6,5 @@ This will download any Youtube video you want. All you need to do is paste the l
 3. You can look for the comments in the code, it will direct you where to change the quality and link. I'm too lazy to make a user input
 
 Im not sure if it works for higher than 720p, I know it works from 360-720p
+
+This is free of use and only created for educational purposes
